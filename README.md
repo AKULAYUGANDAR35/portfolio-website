@@ -14,4 +14,4 @@ A modern, responsive portfolio website showcasing my skills and projects.
 - Vanilla JavaScript
 
 ## Live Demo
-[View Live Site](https://AKULAYUGANDAR35/portfolio-website)
+[View Live Site](https://AKULAYUGANDAR35.portfolio-website)
